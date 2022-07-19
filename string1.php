@@ -1,0 +1,24 @@
+<?php
+echo (sqrt(64));
+echo "<br>";
+echo (round(0.64));
+echo "<br>";
+echo (rand(0,100));
+echo "<br>";
+echo (abs(-0.49));
+echo "<br>";
+echo (min(0,20,-4,800));
+echo "<br>";
+echo (max(56,89,77,1000));
+echo "<br>";
+echo (pi());
+echo "<br>";
+echo strlen("Hello world!");
+echo "<br>";
+echo str_word_count("I am kelvin");
+echo "<br>";
+echo strrev("Manchester United");
+echo "<br>";
+echo strpos("Hey Pogba are you in","Pogba");
+echo "<br>";
+echo str_replace("POgba","Bruno","Hello POgba");
